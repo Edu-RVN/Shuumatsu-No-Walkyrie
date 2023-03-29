@@ -17,80 +17,85 @@ function dadosPersonagem(nome){
 
     $.getJSON("json/personagens.json", function( data ) {
 
-        var tPersonagem = (data[0]['titulo']);
-        var nPersonagem = (data[0]['nome']);
-        var iPersonagem = (data[0]['Idade']);
-        var sPersonagem = (data[0]['Sexo']);
-        var cPersonagem = (data[0]['Classe']);
-        var aPersonagem = (data[0]['Altura']);
-        var oPersonagem = (data[0]['Objetivos']);
-        var obraPersonagem = (data[0]['Obra']);
-        var vitPersonagem = (data[0]['Vitoria']);
-        var derrPersonagem = (data[0]['Derrota']);
-        var empPersonagem = (data[0]['Empate']);
-        var imgSttPersonagem = (data[0]['ImagemStatus']);
-        var aparenPersonagem = (data[0]['TextoAparencia']);
-        var histoPersonagem = (data[0]['TextoHistoria']);
-        var textRodadaPersonagem = (data[0]['TitutoRagnarokRodada']);
-        var rag1Personagem = (data[0]['RagnarokP1']);
-        var titRag1Personagem = (data[0]['TituloRagnarok1']);
-        var imgRag1Personagem = (data[0]['ImagemRagnarok1']);
-        var rag2Personagem = (data[0]['RagnarokP2']);
-        var imgRag2Personagem = (data[0]['ImagemRagnarok2']);
-        var titRag2Personagem = (data[0]['TituloRagnarok2']);
-        var rag3Personagem = (data[0]['RagnarokP3']);
-        var imgRag3Personagem = (data[0]['ImagemRagnarok3']);
-        var titRag3Personagem = (data[0]['TituloRagnarok3']);
-        var rag4Personagem = (data[0]['RagnarokP4']);
-        var textVolPersonagem = (data[0]['TextoVolund']);
-        var imgVolPersonagem = (data[0]['ImagemVolund']);
-        var pHistPersonagem = (data[0]['paragrafoHistoria']);
-        var imgHistPersonagem = (data[0]['ImagemHistoria']);
-        var tituloTecPersonagem = (data[0]['TituloTecnica']);
-        var imgRag4Personagem = (data[0]['ImagemRagnarok4']);
-        var textTecPersonagem = (data[0]['TextoTecnica']);
-        var imgTecPersonagem = (data[0]['ImagemTecnica']);
-        var nomePer1Personagem = (data[0]['NomePer1']);
-        var imgPer1Personagem = (data[0]['ImagemPer1']);
-        var paraP1Personagem = (data[0]['ParagPer1']);
-        var nomePer2Personagem = (data[0]['NomePer2']);
-        var imgPer2Personagem = (data[0]['ImagemPer2']);
-        var paraP2Personagem = (data[0]['ParagPer2']);
-        var nomePer3Personagem = (data[0]['NomePer3']);
-        var imgPer3Personagem = (data[0]['ImagemPer3']);
-        var paraP3Personagem = (data[0]['ParagPer3']);
-        var nomePer4Personagem = (data[0]['NomePer4']);
-        var imgPer4Personagem = (data[0]['ImagemPer4']);
-        var paraP4Personagem = (data[0]['ParagPer4']);
-        var titCurPersonagem = (data[0]['TituloCuriosidades']);
-        var imgEsb1Personagem = (data[0]['ImagemEsboco1']);
-        var parag1Personagem = (data[0]['ParagrafoCuriosidade1']);
-        var imgEsb2Personagem = (data[0]['ImagemEsboco2']);
-        var parag2Personagem = (data[0]['ParagrafoCuriosidade2']);
-        var imgEsb3Personagem = (data[0]['ImagemEsboco3']);
-        var parag3Personagem = (data[0]['ParagrafoCuriosidade3']);
-        var imgEsb4Personagem = (data[0]['ImagemEsboco4']);
-        var parag4Personagem = (data[0]['ParagrafoCuriosidade4']);
-        var imgOs3PriPersonagem1 = (data[0]['ImagemOs3Primeiros']);
-        var pOs3PriPersonagem1 = (data[0]['ParagrafoOs3Primeiros1']);
-        var imgOs3PriPersonagem2 = (data[0]['ImagemOs3Primeiros2']);
-        var pOs3PriPersonagem2 = (data[0]['ParagrafoOs3Primeiros2']);
-        var imgCocPriPersonagem1 = (data[0]['ImagemCocegas1']);
-        var paraCocPriPersonagem1 = (data[0]['ParagrafoCocegas1']);
-        var imgCocPriPersonagem2 = (data[0]['ImagemCocegas2']);
-        var paraCocPriPersonagem2 = (data[0]['ParagrafoCocegas2']);
-        var imgCocPriPersonagem3 = (data[0]['ImagemCocegas3']);
-        var paraCocPriPersonagem3 = (data[0]['ParagrafoCocegas3']);
-        var imgCocPriPersonagem4 = (data[0]['ImagemCocegas4']);
-        var paraCocPriPersonagem4 = (data[0]['ParagrafoCocegas4']);
-        var imgCocPriPersonagem5 = (data[0]['ImagemCocegas5']);
-        var paraCocPriPersonagem5 = (data[0]['ParagrafoCocegas5']);
-        var imgCrianPersonagem1 = (data[0]['ImagemCrianca1']);
-        var PaCrianPersonagem1 = (data[0]['ParagrafoCrianca1']);
-        var imgCrianPersonagem2 = (data[0]['ImagemCrianca2']);
-        var PaCrianPersonagem2 = (data[0]['ParagrafoCrianca2']);
-        var imgGaidenPersonagem = (data[0]['ImagemGaiden']);
-        var paraGaidenPersonagem = (data[0]['ParagrafoGaiden']);
+        $.each(data,function(key,item){
+
+            console.log(item);
+
+       
+        // var tPersonagem = item.titulo;//(data[0]['titulo']);
+        // var nPersonagem = (data[0]['nome']);
+        // var iPersonagem = (data[0]['Idade']);
+        // var sPersonagem = (data[0]['Sexo']);
+        // var cPersonagem = (data[0]['Classe']);
+        // var aPersonagem = (data[0]['Altura']);
+        // var oPersonagem = (data[0]['Objetivos']);
+        // var obraPersonagem = (data[0]['Obra']);
+        // var vitPersonagem = (data[0]['Vitoria']);
+        // var derrPersonagem = (data[0]['Derrota']);
+        // var empPersonagem = (data[0]['Empate']);
+        // var imgSttPersonagem = (data[0]['ImagemStatus']);
+        // var aparenPersonagem = (data[0]['TextoAparencia']);
+        // var histoPersonagem = (data[0]['TextoHistoria']);
+        // var textRodadaPersonagem = (data[0]['TitutoRagnarokRodada']);
+        // var rag1Personagem = (data[0]['RagnarokP1']);
+        // var titRag1Personagem = (data[0]['TituloRagnarok1']);
+        // var imgRag1Personagem = (data[0]['ImagemRagnarok1']);
+        // var rag2Personagem = (data[0]['RagnarokP2']);
+        // var imgRag2Personagem = (data[0]['ImagemRagnarok2']);
+        // var titRag2Personagem = (data[0]['TituloRagnarok2']);
+        // var rag3Personagem = (data[0]['RagnarokP3']);
+        // var imgRag3Personagem = (data[0]['ImagemRagnarok3']);
+        // var titRag3Personagem = (data[0]['TituloRagnarok3']);
+        // var rag4Personagem = (data[0]['RagnarokP4']);
+        // var textVolPersonagem = (data[0]['TextoVolund']);
+        // var imgVolPersonagem = (data[0]['ImagemVolund']);
+        // var pHistPersonagem = (data[0]['paragrafoHistoria']);
+        // var imgHistPersonagem = (data[0]['ImagemHistoria']);
+        // var tituloTecPersonagem = (data[0]['TituloTecnica']);
+        // var imgRag4Personagem = (data[0]['ImagemRagnarok4']);
+        // var textTecPersonagem = (data[0]['TextoTecnica']);
+        // var imgTecPersonagem = (data[0]['ImagemTecnica']);
+        // var nomePer1Personagem = (data[0]['NomePer1']);
+        // var imgPer1Personagem = (data[0]['ImagemPer1']);
+        // var paraP1Personagem = (data[0]['ParagPer1']);
+        // var nomePer2Personagem = (data[0]['NomePer2']);
+        // var imgPer2Personagem = (data[0]['ImagemPer2']);
+        // var paraP2Personagem = (data[0]['ParagPer2']);
+        // var nomePer3Personagem = (data[0]['NomePer3']);
+        // var imgPer3Personagem = (data[0]['ImagemPer3']);
+        // var paraP3Personagem = (data[0]['ParagPer3']);
+        // var nomePer4Personagem = (data[0]['NomePer4']);
+        // var imgPer4Personagem = (data[0]['ImagemPer4']);
+        // var paraP4Personagem = (data[0]['ParagPer4']);
+        // var titCurPersonagem = (data[0]['TituloCuriosidades']);
+        // var imgEsb1Personagem = (data[0]['ImagemEsboco1']);
+        // var parag1Personagem = (data[0]['ParagrafoCuriosidade1']);
+        // var imgEsb2Personagem = (data[0]['ImagemEsboco2']);
+        // var parag2Personagem = (data[0]['ParagrafoCuriosidade2']);
+        // var imgEsb3Personagem = (data[0]['ImagemEsboco3']);
+        // var parag3Personagem = (data[0]['ParagrafoCuriosidade3']);
+        // var imgEsb4Personagem = (data[0]['ImagemEsboco4']);
+        // var parag4Personagem = (data[0]['ParagrafoCuriosidade4']);
+        // var imgOs3PriPersonagem1 = (data[0]['ImagemOs3Primeiros']);
+        // var pOs3PriPersonagem1 = (data[0]['ParagrafoOs3Primeiros1']);
+        // var imgOs3PriPersonagem2 = (data[0]['ImagemOs3Primeiros2']);
+        // var pOs3PriPersonagem2 = (data[0]['ParagrafoOs3Primeiros2']);
+        // var imgCocPriPersonagem1 = (data[0]['ImagemCocegas1']);
+        // var paraCocPriPersonagem1 = (data[0]['ParagrafoCocegas1']);
+        // var imgCocPriPersonagem2 = (data[0]['ImagemCocegas2']);
+        // var paraCocPriPersonagem2 = (data[0]['ParagrafoCocegas2']);
+        // var imgCocPriPersonagem3 = (data[0]['ImagemCocegas3']);
+        // var paraCocPriPersonagem3 = (data[0]['ParagrafoCocegas3']);
+        // var imgCocPriPersonagem4 = (data[0]['ImagemCocegas4']);
+        // var paraCocPriPersonagem4 = (data[0]['ParagrafoCocegas4']);
+        // var imgCocPriPersonagem5 = (data[0]['ImagemCocegas5']);
+        // var paraCocPriPersonagem5 = (data[0]['ParagrafoCocegas5']);
+        // var imgCrianPersonagem1 = (data[0]['ImagemCrianca1']);
+        // var PaCrianPersonagem1 = (data[0]['ParagrafoCrianca1']);
+        // var imgCrianPersonagem2 = (data[0]['ImagemCrianca2']);
+        // var PaCrianPersonagem2 = (data[0]['ParagrafoCrianca2']);
+        // var imgGaidenPersonagem = (data[0]['ImagemGaiden']);
+        // var paraGaidenPersonagem = (data[0]['ParagrafoGaiden']);
 
 
 
@@ -99,19 +104,20 @@ function dadosPersonagem(nome){
 
 
         
-        if(nome == nPersonagem){
-            $('#nome-principal-titulo').text(tPersonagem);
-            $('#nome-personagem').text(nPersonagem);
-            $('#idade-personagem').html("<strong>Idade: </strong>"+iPersonagem);
-            $('#sexo-personagem').html("<strong>Sexo: </strong>"+sPersonagem);
-            $('#classe-personagem').html("<strong>Classe: </strong>"+cPersonagem);
-            $('#altura-personagem').html("<strong>Altura: </strong>"+aPersonagem);
-            $('#objetivos-personagem').html("<strong>Objetivos: </strong>"+oPersonagem);
-            $('#batalha-status').html("<p><strong>Na obra</strong> - "+obraPersonagem+"</p>"+
-                                        "<p><strong>Vitória</strong> - "+vitPersonagem+"</p>"+
-                                        "<p><strong>Derrota</strong> - "+derrPersonagem+"</p>"+
-                                        "<p><strong>Empate</strong> - "+empPersonagem+"</p>");
-            $('#img-status').attr('src',imgSttPersonagem);
+        if(nome == item.nome){
+            $('#nome-principal-titulo').text(item.titulo);
+            $('#nome-personagem').text(item.nome);
+            $('#idade-personagem').html("<strong>Idade: </strong>"+item.Idade);
+            $('#sexo-personagem').html("<strong>Sexo: </strong>"+item.Sexo);
+            $('#classe-personagem').html("<strong>Classe: </strong>"+item.Classe);
+            $('#altura-personagem').html("<strong>Altura: </strong>"+item.Altura);
+            $('#objetivos-personagem').html("<strong>Objetivos: </strong>"+item.Objetivo);
+            $('#batalha-status').html("<p><strong>Na obra</strong> - "+item.Obra+"</p>"+
+                                        "<p><strong>Vitória</strong> - "+item.Vitoria+"</p>"+
+                                        "<p><strong>Derrota</strong> - "+item.Derrota+"</p>"+
+                                        "<p><strong>Empate</strong> - "+item.Empate+"</p>");
+            $('#img-status').attr('src',item.ImagemStatus);
+            
             $('#texto-aparencia').text(aparenPersonagem);
             $('#texto-historia').text(histoPersonagem);
             $('#titulo-rodada').text(textRodadaPersonagem);
@@ -130,9 +136,12 @@ function dadosPersonagem(nome){
             $('#img-volund').attr('src',imgVolPersonagem);
             $('#texto-habilidade').text(pHistPersonagem);
             $('#img-habilidade').attr('src',imgHistPersonagem);
+
+            //Pode ter mais de um 
             $('#titutlo-tecnica').text(tituloTecPersonagem);
             $('#texto-tecnica').text(textTecPersonagem);
             $('#img-tecnica').attr('src',imgTecPersonagem);
+
             $('#nome-do-per1').text(nomePer1Personagem);
             $('#img-perso1').attr('src',imgPer1Personagem);
             $('#perso-p1').text(paraP1Personagem);
@@ -175,6 +184,6 @@ function dadosPersonagem(nome){
             $('#img-esboco14').attr('src',imgGaidenPersonagem);
             $('#parag-14').text(paraGaidenPersonagem);
         }
-        
+    })
     });
 }

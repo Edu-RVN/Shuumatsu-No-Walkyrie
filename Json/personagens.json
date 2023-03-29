@@ -109,9 +109,11 @@
 	"ImagemVolund": "../imagens/Adao/volund-adao.jpg",
 	"paragrafoHistoria": "A história dele começa quando Deus decide criar uma pessoa semelhante, dando vida a Adão, criou depois a Eva para sua companhia a todo momento para não ficar solitário. Começaram a viver juntos no Jardim do Éden e passaram tempos perfeitos por lá, já que é dito como um paraíso, onde chegaram até a nomear os animais, e, além disso, na época não existia o pecado, então tudo era perfeito, até que a Cobra começou a cobiçar Eva, até porque houve um momento em que esse réptil estava quase abusando dela. Nesse momento, ela pediu socorro sem parar, buscando alguma ajuda, até que uns pássaros apareceram e começaram a bicá-lo, então acabou a soltando quando tomou uma cotovelada na barriga e foi arremessado na árvore. Por causa desse ocorrido, uma maçã acabou caindo em seu colo, por consequência, ela teve uma ideia: deu uma grande mordida nessa fruta, o que ocasionou um julgamento em que foi alegado que ela comeu o fruto proibido e que deveria ser pago o crime cometido, sendo banida. Tudo isso é pelo fato de ela ter sempre recusado as aproximações dele. No julgamento, a Cobra mostra a maçã, alegando que a mordida mostrada era de Eva. Como era um local onde apenas habitavam os deuses, então não importaria o que ela tentasse alegar, foi falado que a chance de um humano ser sentenciado era de 99,99%, praticamente, apenas tinha que aceitar aquilo. Ela ficava repetindo que tudo aquilo era uma farsa e que a mordida não era dela, mas no fim já estava sentenciado seu exílio.",
 	"ImagemHistoria": "../imagens/Adao/adao-historia.jpg",
-	"TituloTecnica": "Olhos do Senhor",
-	"TextoTecnica": "Como um homem projetado à imagem de Deus, Adão foi dotado com a capacidade de replicar perfeitamente qualquer movimento e técnica em que ele coloca seus olhos, incluindo os usados pelos seres divinos. Independentemente de sua velocidade ou poder, Adão pode escapar de qualquer ataque enquanto simultaneamente contra-ataca seu atacante com seu próprio movimento.",
-	"ImagemTecnica": "../imagens/Adao/olhos-do-senhor.jpg",
+	"habilidades":[{
+		"TituloTecnica": "Olhos do Senhor",
+		"TextoTecnica": "Como um homem projetado à imagem de Deus, Adão foi dotado com a capacidade de replicar perfeitamente qualquer movimento e técnica em que ele coloca seus olhos, incluindo os usados pelos seres divinos. Independentemente de sua velocidade ou poder, Adão pode escapar de qualquer ataque enquanto simultaneamente contra-ataca seu atacante com seu próprio movimento.",
+		"ImagemTecnica": "../imagens/Adao/olhos-do-senhor.jpg",
+	}],
 	"NomePer1": "Eva",
 	"ImagemPer1": "../imagens/Lu-Bu/Zhang Fei Personagens de Shuumatsu no Valkyrie.png",
 	"ParagPer1": "Sua relação com Eva é de ela ser sua esposa. Não importando o que seja, ele demostra que irá defendê-la em tudo e que sempre estará ao seu lado.",
@@ -190,11 +192,17 @@
 	"ImagemVolund": "../imagens/Sasaki/volund.jpg",
 	"paragrafoHistoria": "Senju Musō: A habilidade e o talento inato de Kojiro que lhe permite memorizar e analisar os movimentos de seu oponente para formar uma simulação deles dentro de sua mente, visualizando e lutando contra o oponente até que ele encontre uma maneira de derrotá-los. Kojiro muitas vezes usa essa habilidade para prever os movimentos de seus inimigos através de simulações mentais, criando e quebrando seus milhares de possíveis padrões de ataque que eles podem ter, analisando sua constituição, marcha, respiração e piscando antes mesmo da luta começar. No entanto, essa habilidade não é perfeita, uma vez que usá-la coloca um fardo no corpo de Kojiro e as previsões em si não são 100% precisas, especialmente se seu oponente estiver se segurando.",
 	"ImagemHistoria": "../imagens/Sasaki/sasaki-habilidade.png",
-	
-	"TituloTecnica": "Tsubame Gaeshi",
-	"TextoTecnica": "Tsubame Gaeshi: A técnica mais poderosa de Kojiro quando ele ainda estava na Terra. Primeiro, Kojiro balança sua espada para baixo com toda a sua força. Devido ao peso de Monohoshizao e ao poder absoluto do ataque, a maioria dos oponentes não pode bloqueá-lo, forçando-os a se esquivar. No entanto, se eles conseguirem se esquivar, Kojiro é capaz de interromper imediatamente a descida da lâmina, invertê-la e mudar a direção de seu balanço, atingindo para cima a velocidades extremamente rápidas e, ao mesmo tempo, mirando o ponto cego do oponente (eliminando todas as opções defensivas de seu oponente). Esta técnica disse ser capaz de pegar uma andorinha, com velocidades superiores a 200 km / h (124 mph).",
-	"ImagemTecnica": "../imagens/Sasaki/sasaki-tecnica1.png",
-	
+	"habilidades":[
+		{
+		"TituloTecnica": "Tsubame Gaeshi",
+		"TextoTecnica": "Tsubame Gaeshi: A técnica mais poderosa de Kojiro quando ele ainda estava na Terra. Primeiro, Kojiro balança sua espada para baixo com toda a sua força. Devido ao peso de Monohoshizao e ao poder absoluto do ataque, a maioria dos oponentes não pode bloqueá-lo, forçando-os a se esquivar. No entanto, se eles conseguirem se esquivar, Kojiro é capaz de interromper imediatamente a descida da lâmina, invertê-la e mudar a direção de seu balanço, atingindo para cima a velocidades extremamente rápidas e, ao mesmo tempo, mirando o ponto cego do oponente (eliminando todas as opções defensivas de seu oponente). Esta técnica disse ser capaz de pegar uma andorinha, com velocidades superiores a 200 km / h (124 mph).",
+		"ImagemTecnica": "../imagens/Sasaki/sasaki-tecnica1.png"
+		},{
+			"TituloTecnica": "Tsubame Gaeshi",
+			"TextoTecnica": "Tsubame Gaeshi: A técnica mais poderosa de Kojiro quando ele ainda estava na Terra. Primeiro, Kojiro balança sua espada para baixo com toda a sua força. Devido ao peso de Monohoshizao e ao poder absoluto do ataque, a maioria dos oponentes não pode bloqueá-lo, forçando-os a se esquivar. No entanto, se eles conseguirem se esquivar, Kojiro é capaz de interromper imediatamente a descida da lâmina, invertê-la e mudar a direção de seu balanço, atingindo para cima a velocidades extremamente rápidas e, ao mesmo tempo, mirando o ponto cego do oponente (eliminando todas as opções defensivas de seu oponente). Esta técnica disse ser capaz de pegar uma andorinha, com velocidades superiores a 200 km / h (124 mph).",
+			"ImagemTecnica": "../imagens/Sasaki/sasaki-tecnica1.png"
+			}
+	],
 
 	"NomePer1": "Musashi Miyamoto",
 	"ImagemPer1": "../imagens/Sasaki/Musashi_Miyamoto.png",
@@ -274,9 +282,14 @@
 	"ImagemVolund": "../imagens/Jack/jack-volund.png",
 	"paragrafoHistoria": "Olho da Alma: Um poder único que ele possui desde o nascimento, o olho direito de Jack possui a capacidade de ver as emoções das pessoas como cores. Ao olhar para a 'alma' de uma pessoa, Jack pode discernir suas reais intenções até mesmo pela menor mudança de cor. Durante sua matança, Jack usou seu olho direito para ver as verdadeiras cores de qualquer um que ele viu, a fim de matar ou evadir, o que pode ser a verdadeira razão pela qual ele foi capaz de escapar da força policial. Quando combinado com seu intelecto, Jack pode facilmente manipular as pessoas para fazer o que quiser, isso foi melhor mostrado por ele forçando um Völundr com uma Valquíria, manipulando suas emoções e fazendo-as 'combinar com seus comprimentos de onda'.",
 	"ImagemHistoria": "../imagens/Jack/olho-da-alma.png",
-	"TituloTecnica": "Querido Deus",
-	"TextoTecnica": "Querido Deus: A técnica final de Jack dedicada a Héracles, ao cobrir suas luvas com seu próprio sangue e torná-lo capaz de perfurar a carne divina, Jack finge desmaiar para que seu oponente baixe a guarda, sobre a qual ele imediatamente se levanta e empurra ambas as mãos através de seu tronco.",
-	"ImagemTecnica": "../imagens/Jack/querido-deus.png",
+	"habilidades":[
+		{
+		"TituloTecnica": "Querido Deus",
+		"TextoTecnica": "Querido Deus: A técnica final de Jack dedicada a Héracles, ao cobrir suas luvas com seu próprio sangue e torná-lo capaz de perfurar a carne divina, Jack finge desmaiar para que seu oponente baixe a guarda, sobre a qual ele imediatamente se levanta e empurra ambas as mãos através de seu tronco.",
+		"ImagemTecnica": "../imagens/Jack/querido-deus.png",
+		}
+	],
+	
 	"NomePer1": "Mary",
 	"ImagemPer1": "../imagens/Jack/Mary.png",
 	"ParagPer1": "Mary é a mãe de Jack. Em sua juventude, Jack amava Mary muito profundamente e achava que ela era muito bonita (a ponto de ele até afirmar que ela era a pessoa mais bonita de toda Londres). No entanto, uma vez que ele descobriu a verdadeira natureza de sua mãe e viu sua cor natural, seu amor rapidamente se tornou luxúria de sangue e ele acabou matando-a.",
