@@ -105,8 +105,8 @@ function dadosPersonagem(nome){
 
         
         if(nome == item.nome){
-            $('#nome-principal-titulo').text(item.Titulo);
-            $('#nome-personagem').text(item.Nome);
+            $('#nome-principal-titulo').text(item.titulo);
+            $('#nome-personagem').text(item.nome);
             $('#idade-personagem').html("<strong>Idade: </strong>"+item.Idade);
             $('#sexo-personagem').html("<strong>Sexo: </strong>"+item.Sexo);
             $('#classe-personagem').html("<strong>Classe: </strong>"+item.Classe);
@@ -165,8 +165,8 @@ function dadosPersonagem(nome){
             $('#parag-4').text(item.ParagrafoCuriosidade4);
             $('#img-esboco5').attr('src',item.ImagemOs3Primeiros);
             $('#parag-5').text(item.ParagrafoOs3Primeiros1);
-            $('#img-esboco6').attr('src',ImgOs3PriPersonagem2);
-            $('#parag-6').text(item.ImagemOs3Primeiros2);
+            $('#img-esboco6').attr('src',item.ImagemOs3Primeiros2);
+            $('#parag-6').text(item.ImgOs3PriPersonagem2);
             $('#img-esboco7').attr('src',item.ImagemCocegas1);
             $('#parag-7').text(item.ParagrafoCocegas1);
             $('#img-esboco8').attr('src',item.ImagemCocegas2);

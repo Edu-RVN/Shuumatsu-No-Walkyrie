@@ -1,6 +1,6 @@
 [{
-	"Titulo": "Lu Bu, o General Voador",
-	"Nome": "Lu Bu Feng Xian",
+	"titulo": "Lu Bu, o General Voador",
+	"nome": "Lu Bu Feng Xian",
 	"Idade": "38 anos",
 	"Sexo": "Masculino",
 	"Classe": "Humano, guerreiro do lado da humanidade",
@@ -65,7 +65,7 @@
 	"ImagemEsboco4": "../imagens/Lu-Bu/comic-natal.png",
 	"ParagrafoCuriosidade4": "Natal com Randgriz e Lu Bu",
 	"ImagemOs3Primeiros": "../imagens/Lu-Bu/comic1.jpg",
-	"ParagrafoOs3Primeiros1:": "Randgriz, Lu Bu, Adão e Sasaki 1",
+	"ParagrafoOs3Primeiros1": "Randgriz, Lu Bu, Adão e Sasaki 1",
 	"ImagemOs3Primeiros2": "../imagens/Lu-Bu/comic2.jpg",
 	"ParagrafoOs3Primeiros2": "Randgriz, Lu Bu, Adão e Sasaki 2",
 	"ImagemCocegas1": "../imagens/Lu-Bu/lu-bu-cocegas1.jpg",
@@ -85,8 +85,8 @@
 	"ImagemGaiden": "../imagens/Lu-Bu/Lu-Bu-de-lado.jpeg",
 	"ParagrafoGaiden": "The Legend of Lu Bu Fengxian"
 },{
-	"Titulo": "Adão, o Pai da Humanidade",
-	"Nome": "Adão",
+	"titulo": "Adão, o Pai da Humanidade",
+	"nome": "Adão",
 	"Idade": "7.000.000+",
 	"Sexo": "Masculino",
 	"Classe": "Humano, guerreiro do lado da humanidade",
@@ -128,7 +128,7 @@
 	}],
 
 	"NomePer1": "Eva",
-	"ImagemPer1": "../imagens/Lu-Bu/Zhang Fei Personagens de Shuumatsu no Valkyrie.png",
+	"ImagemPer1": "../imagens/Adao/eva.jpg",
 	"ParagPer1": "Sua relação com Eva é de ela ser sua esposa. Não importando o que seja, ele demostra que irá defendê-la em tudo e que sempre estará ao seu lado.",
 	"NomePer2": "Caim",
 	"ImagemPer2": "../imagens/Adao/cain.jpg",
@@ -203,8 +203,8 @@
 	"ImagemRagnarok4": "../imagens/Sasaki/sasaki-vence.png",
 	"TextoVolund": "Monohoshizao: Uma Arma Divina na forma de um ōdachi (uma espada mais longa que possui um peso 1,5 vezes maior que a katana média), fornecida pelo Völundr da 2ª Valquíria, Hrist. Devido à natureza única de Hrist, Monohoshizao pode ser reformado em um conjunto Daishō de katanas quando quebrado.",
 	"ImagemVolund": "../imagens/Sasaki/volund.jpg",
-	"paragrafoHistoria": "Senju Musō: A habilidade e o talento inato de Kojiro que lhe permite memorizar e analisar os movimentos de seu oponente para formar uma simulação deles dentro de sua mente, visualizando e lutando contra o oponente até que ele encontre uma maneira de derrotá-los. Kojiro muitas vezes usa essa habilidade para prever os movimentos de seus inimigos através de simulações mentais, criando e quebrando seus milhares de possíveis padrões de ataque que eles podem ter, analisando sua constituição, marcha, respiração e piscando antes mesmo da luta começar. No entanto, essa habilidade não é perfeita, uma vez que usá-la coloca um fardo no corpo de Kojiro e as previsões em si não são 100% precisas, especialmente se seu oponente estiver se segurando.",
-	"ImagemHistoria": "../imagens/Sasaki/sasaki-habilidade.png",
+	"ParagrafoHabilidade": "Senju Musō: A habilidade e o talento inato de Kojiro que lhe permite memorizar e analisar os movimentos de seu oponente para formar uma simulação deles dentro de sua mente, visualizando e lutando contra o oponente até que ele encontre uma maneira de derrotá-los. Kojiro muitas vezes usa essa habilidade para prever os movimentos de seus inimigos através de simulações mentais, criando e quebrando seus milhares de possíveis padrões de ataque que eles podem ter, analisando sua constituição, marcha, respiração e piscando antes mesmo da luta começar. No entanto, essa habilidade não é perfeita, uma vez que usá-la coloca um fardo no corpo de Kojiro e as previsões em si não são 100% precisas, especialmente se seu oponente estiver se segurando.",
+	"ImagemHabilidade": "../imagens/Sasaki/sasaki-habilidade.png",
 	"habilidades":[
 		{
 		"TituloTecnica": "Tsubame Gaeshi",
