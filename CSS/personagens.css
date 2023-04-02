@@ -223,6 +223,11 @@ footer strong{
     margin-bottom: 25px;
 }
 
+#cartao-ragnarok img{
+    width: 400px;
+    height: 400px;
+}
+
 .ragnarok-1{
     display: flex;
     margin-bottom: 15px;
@@ -479,4 +484,9 @@ footer strong{
 .informacoes-status strong{
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.humanos-plateia img{
+    width: 300px;
+    height: 300px;
 }
