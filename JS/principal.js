@@ -1,5 +1,5 @@
-function carregarPersonagem(nome){
-    carregarConteudo('personagens/personagens.html'); 
+async function carregarPersonagem(nome){
+    await carregarConteudo('personagens/personagens.html'); 
     dadosPersonagem(nome);
 }
 

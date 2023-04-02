@@ -13,9 +13,9 @@ function clickAccordion(t){
     }
 }
 
-function dadosPersonagem(nome){
+async function dadosPersonagem(nome){
 
-    $.getJSON("json/personagens.json", function( data ) {
+    await $.getJSON("json/personagens.json", function( data ) {
 
         $.each(data,function(key,item){
 

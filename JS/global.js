@@ -1,8 +1,8 @@
-function carregarConteudo(url) {
-    fetch(url)
-        .then(response => response.text())
-        .then(html => document.querySelector('main').innerHTML = html)
-        .catch(error => console.error(error));
+async function carregarConteudo(url) {
+    await fetch(url)
+            .then(response => response.text())
+            .then(html => document.querySelector('main').innerHTML = html)
+            .catch(error => console.error(error));
 }
 
 class MobileNavbar{
