@@ -159,6 +159,15 @@ footer strong{
     
 }
 
+#ragnarok-p{
+    margin-bottom: 20px;
+}
+
+.nome-status-rodada{
+    background-color: #efc77e;
+    text-align: center;
+}
+
 .link-status{
     text-decoration: none;
     color: rgb(204, 6, 6);
@@ -226,6 +235,10 @@ footer strong{
 #cartao-ragnarok img{
     width: 400px;
     height: 400px;
+    border: 2px solid #b29867;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-left: 30%;
 }
 
 .ragnarok-1{
@@ -349,15 +362,8 @@ footer strong{
     border: 2px solid #b29867;
     text-align: center;
     margin-top: 10px;
-    margin-bottom: 25px;
-}
-
-.campo-plateia p{
-    padding: 10px;
-}
-
-.campo-plateia1 p{
-    padding: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 .campo-plateia img{
@@ -365,12 +371,7 @@ footer strong{
     border: 2px solid #b29867;
 }
 
-.campo-plateia1 img{
-    margin-top: 10px;
-    border: 2px solid #b29867;
-}
-
-.campo-plateia1{
+.campo-plateia{
     border: 2px solid #b29867;
     text-align: center;
     margin-top: 50px;
@@ -489,4 +490,14 @@ footer strong{
 .humanos-plateia img{
     width: 300px;
     height: 300px;
+}
+
+#texto-tecnica p{
+    text-align: center;
+}
+
+#perso-p1{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
