@@ -27,7 +27,7 @@ function logar(){
     var Senha = document.getElementById('senha').value;
     
     if(Email == 'dudu' && Senha == 'dudu'){
-        carregarConteudo('principal.html');
+        carregarConteudo('../principal.html');
         $('#main-index').removeClass('conteudo-principal')
 
         $('#menu').html("<img class='imagem-principal' src='imagens/logo.png'> <ul class='nav-list'>"+

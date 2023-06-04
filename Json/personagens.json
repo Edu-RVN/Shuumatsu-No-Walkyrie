@@ -1206,91 +1206,195 @@
         "ImagemRagnarok": "../imagens/Poseidon/poseidon-ferido.png"
       },
       {
-        "TituloRagnarok": "O Grande Adamas Surge",
-        "RagnarokP": "Zeus admitiu que havia subestimado Adão, e que ele era de fato muito poderoso. Ele relutantemente decidiu trazer seu trunfo. O líder dos gregos passou a esmagar e comprimir todos os seus músculos, gritando em agonia. Eventualmente, uma nuvem de fumaça irrompeu de sua forma e emergiu sua forma final: Adamas. A forma final de Zeus intimidou o público de humanos e deuses, fazendo com que Adão subconscientemente colocasse sua guarda para cima.Zeus imediatamente entrou com seu ataque final: o verdadeiro direito de Deus. Adão usou os olhos mais uma vez e refletiu-o, desferindo um soco em Zeus. Sem vacilar, Zeus foi para outro soco, recebendo outro soco para seus problemas. Zeus continuou a tentar conectar soco após soco, mas Adão refletiu cada um deles. Eventualmente, o corpo de Adão vacilou quando ele teve um sangramento nasal, seu uso constante de Os Olhos do Senhor fazendo com que seu corpo superaquecesse. Zeus continuou socando e Adão continuou refletindo, enquanto o corpo de Zeus começava a dar o seu bem, ficando mutilado e mutilado. Os dois continuaram balançando, Adão conseguindo evitar todos os ataques e acertando Zeus de volta com a mesma força. Adão desferiu outro grande golpe, finalmente tirando sangue de Zeus, mas essa gota de sangue caiu bem em seu olho. A gota de sangue aliada ao uso excessivo de seus olhos fez com que seu corpo falhasse e seus olhos parassem de funcionar. Adão tropeçou de volta, agora cego. Antes que ele pudesse fazer muito mais, Zeus lhe deu um soco no rosto, finalmente desferindo um golpe em Adão.",
-        "ImagemRagnarok": "../imagens/Zeus/zeus-adamas.png"
-      },
-      {
-        "TituloRagnarok": "A Conclusão da Luta",
-        "RagnarokP": "Zeus continuou a tirar a vida do homem original, desferindo todos os socos e chutes, enquanto tudo o que Adão podia fazer era guardar. Por fim, Zeus desgastou Adão e o mandou cambalear. Em vez de descer, Adão agarrou o cabelo de Zeus, recusando-se a morrer. Os dois combatentes, então, passaram a se atacar incansavelmente. Adão e Zeus se acertaram com tudo o que tinham, até que Adão finalmente conseguiu o soco definitivo, mandando Zeus de joelhos. A forma final do deus se dissipou, pois seu corpo agora era uma casca ferida e murcha. Zeus pronunciou que a luta havia terminado, pois ele havia sido derrotado, mas Adão havia morrido de pé. Quando Heimdall anunciou sua morte, Zeus comentou que Adão havia morrido há algum tempo, mas continuou a lutar, recusando-se a cair. Ele elogiou Adão e disse que, se fosse uma disputa de resistência, ele certamente teria vencido. Heimdall anunciou Zeus como o vencedor de Round 2, quando Adam e Reginleif morreram, suas almas apagadas da história.",
-        "ImagemRagnarok": "../imagens/Zeus/zeus-vence.png"
+        "TituloRagnarok": "A Primeira Vitória da Humanidade",
+        "RagnarokP": "No entanto, devido à torcida de seus amigos e do resto da humanidade, ele encontrou determinação para continuar. A habilidade de digitalização de Kojiro evoluiu ainda mais, permitindo que ele digitalizasse toda a criação de uma só vez. Ele se defendeu com sucesso de todos os ataques de Poseidon e fechou a distância com ele usando um trabalho de pé extremamente rápido. Kojiro contra-atacou o impulso de Poseidon com Soen Zanko Banjin Ryoran, cortando o braço direito do deus e quebrando seu tridente. Não perdendo tempo, Poseidon rapidamente agarrou seu braço desmembrado e quebrou o tridente com o braço esquerdo, mas também foi cortado. Tendo apenas seus dentes restantes e recusando-se a ceder, Poseidon mordeu furiosamente o eixo de sua arma e tentou esfaquear Kojiro. Apesar de seus melhores esforços, Kojiro finalizou com um corte cruzado em seu abdômen. Em seus momentos finais, Poseidon xingou Kojiro com raiva quando seu tronco caiu em pedaços e sua parte inferior do corpo caiu no chão. Ele acabou se desintegrando e foi varrido da existência, marcando a primeira perda dos deuses.",
+        "ImagemRagnarok": "../imagens/Poseidon/poseidon-morre.png"
       }
     ],
-    "TextoVolund": "Zeus já disse que não tem uma arma divina pois ele é um lutador sádico que gosta de usar somente os punhos nas suas lutas, sua força e velocidade o possibilitam de não depender de uma arma.",
-    "ImagemVolund": "../imagens/Zeus/volund.png",
-    "ParagrafoHabilidade": "<b>Proficiência em Combate Desarmado</b>: Zeus é muito habilidoso na arte do combate desarmado. Ele foi capaz de derrotar seu pai, Kronos, com apenas seus punhos e conseguiu desenvolver várias técnicas de combate desarmado que também lhe permitiram derrotar Adam, que foi descrito como sendo naturalmente talentoso em combate corpo a corpo. Ele tem mais de um milênio de experiência e lutou em inúmeras batalhas, incluindo a Titanomaquia e a Gigantomachy.",
-    "ImagemHabilidade": "../imagens/Zeus/corpo-a-corpo.png",
+    "TextoVolund": "Tridente: Uma grande arma em forma de lança com três pontas afiadas em sua extremidade, o símbolo do domínio de Poseidon sobre os mares. A ponta do tridente é de cor prata, e uma cobertura azul e roxa semelhante a barbatana pode ser encontrada perto da ponta e da parte inferior. O cabo do tridente tem uma cor azul escuro.",
+    "ImagemVolund": "../imagens/Poseidon/volund.png",
+    "ParagrafoHabilidade": "<b>Hidrocinese</b>:  Como o 'Deus dos Mares', Poseidon possui controle absoluto sobre a água divina. Durante sua entrada na arena, Poseidon pisou seu pé, fazendo com que a água se separasse e permitindo que ele caminhasse até o estádio. [15] No entanto, se ele pode ou não usar essa habilidade para fins de combate é deixado desconhecido, pois ele nunca demonstrou qualquer tipo de técnicas à base de água.",
+    "ImagemHabilidade": "../imagens/Poseidon/controle-das-aguas.png",
     "Tecnicas": [
       {
-        "TituloTecnica": "Soco Meteoro",
-        "TextoTecnica": "Zeus desencadeia uma enxurrada contínua de socos rápidos, a cada soco a velocidade aumenta em dez vezes (começando em 0,01 segundos perto da velocidade da luz Jab e eventualmente atingindo 0,00000001 segundos) a fim de dominar completa e totalmente seu oponente.",
-        "ImagemTecnica": "../imagens/Zeus/soco-meteoro.png"
+        "TituloTecnica": "Amphitrite",
+        "TextoTecnica": "Poseidon usa seu tridente para desencadear impulsos incessantes em velocidades ofuscantes em um padrão circular.",
+        "ImagemTecnica": "../imagens/Poseidon/amphitrit.png"
       },
       {
-        "TituloTecnica": "Machado Divino",
-        "TextoTecnica": "Zeus libera uma varredura de pernas extremamente rápida e poderosa que pode facilmente cortar o corpo de seus oponentes. Ele o usou em sua forma muscular e na forma Adamas.",
-        "ImagemTecnica": "../imagens/Zeus/machado-divino.png"
+        "TituloTecnica": "Chione Tyro Demeter (Relâmpago Divino Caindo no Mar Agitado)",
+        "TextoTecnica": "Poseidon salta no ar acima de seu oponente, desencadeando uma enxurrada interminável de tridentes lançados sobre eles de cima, semelhante a um raio em uma tempestade. Ele os libera em velocidades tão rápidas que inúmeras imagens posteriores são criadas.",
+        "ImagemTecnica": "../imagens/Poseidon/demether.png"
       },
       {
-        "TituloTecnica": "Zeus Footwork",
-        "TextoTecnica": "Zeus acumula impulso, aumentando sua velocidade exponencialmente, ele então se move ao redor de seu oponente com um estranho trabalho de pé enquanto cria imagens posteriores, a fim de confundir seu inimigo. Uma vez distraídos, Zeus finaliza a jogada dando um chute na cabeça. Essa técnica não tem nome oficial, sendo apenas chamada de 'Isso' por Ares.",
-        "ImagemTecnica": "../imagens/Zeus/zeus-chute.png"
-      },
-      {
-        "TituloTecnica": "O Punho que Ultrapassou o Tempo ",
-        "TextoTecnica": "Cronos', a personificação do tempo, golpe final que Zeus queimou em seu corpo, nomeando-o como seu. Dizia-se que este ataque continha todo o respeito e ressentimento que Zeus possui em relação a seu pai, e a simples menção de seu nome tem sido dita para exercer poder sobre todo o tempo. Para liberar essa técnica, Zeus reúne toda a sua força e soca com tanta força, que o próprio tempo parece parar. É pelo menos mais rápido do que 0,000000000000000000001",
-        "ImagemTecnica": "../imagens/Zeus/soco-tempo.png"
-      },
-      {
-        "TituloTecnica": "Adamas",
-        "TextoTecnica": "Uma transformação na qual Zeus comprime todos os seus músculos até seus limites. Enquanto neste estado, o corpo de Zeus é virtualmente indestrutível (como o nome sugere) e concentra todo o seu poder divino em cada movimento. No entanto, Zeus só pode manter esta forma por cerca de 12-13 minutos. Depois de ser gravemente ferido por Adam durante sua luta, ele só conseguiu manter essa forma por 5-6 minutos, pois lentamente destruiu seu corpo ao longo do tempo. Zeus também comenta que ele não gosta de usar essa técnica, pois ela chacoalha seus ossos velhos.  A transformação em si faz com que o instinto primordial dentro de cada ser trema de medo quando uma ameaça foi detectada, com até mesmo Adam assumindo uma postura de guarda pela primeira vez na rodada. Shiva observou que, dessa forma, Zeus detém poder suficiente para destruir o Céu.",
-        "ImagemTecnica": "../imagens/Zeus/adamas.png"
-      },
-      {
-        "TituloTecnica": "Verdadeira Direita dos Deuses",
-        "TextoTecnica": "Enquanto em sua forma Adamas, Zeus desfere um soco reto que abriga a totalidade de seu poder divino, que ele então segue com outro soco e repetindo isso em velocidades ofuscantes, lançando uma enxurrada interminável de ataques com alguns usos do Machado Divino às vezes. Adam é capaz de replicar e combater os ataques, mas exige que ele use sua Reflexão Divina sem parar, o que cobra um preço enorme em seus olhos, a ponto de ele acabar ficando cego.",
-        "ImagemTecnica": "../imagens/Zeus/direita-dos-deuses.png"
+        "TituloTecnica": "Medusa Alope Demeter (40 Dias e 40 Noites Grande Dilúvio)",
+        "TextoTecnica": "Poseidon desencadeia golpes de tridente que combinam seu poder divino e velocidade piedosa, atacando de todas as direções possíveis. A velocidade é tamanha que cria uma cúpula de imagens posteriores ao redor do adversário.",
+        "ImagemTecnica": "../imagens/Poseidon/diluvio.png"
       }
     ],
     "NomePer1": "Hades",
-    "ImagemPer1": "../imagens/Zeus/hades.png",
-    "ParagPer1": "Hades e Zeus tinham uma boa relação, embora aparentemente não tão próxima quanto Hades tinha com Poseidon. Os dois se davam bem e Hades mantinha amor incondicional por seu irmão mais novo, assim como o resto de sua família. Hades pediu desculpas a Zeus antes de sua morte.",
-    "NomePer2": "Poseidon",
-    "ImagemPer2": "../imagens/Zeus/poseidon.png",
+    "ImagemPer1": "../imagens/Poseidon/hades.png",
+    "ParagPer1": "Poseidon parecia respeitar seu irmão mais velho. Enquanto ele ainda agia frio e distante em relação a Hades, ele cuidava dele. Isso pôde ser visto em sua reação a Hades lutando contra os Titãs sozinho, imediatamente correndo para Helheim para verificar seu irmão. Enquanto ele o repreendia por fazer algo tão imprudente, ele ainda sorria e se referia a Hades como seu irmão, algo que ele não havia feito até então. Poseidon também parecia se inspirar em Hades em seu próprio estilo de luta, imitando a canção de Hades.",
+    "NomePer2": "Zeus",
+    "ImagemPer2": "../imagens/Poseidon/zeus.png",
     "ParagPer2": "Muito pouco se sabe sobre a relação de Poseidon com Zeus. Eles provavelmente não eram muito próximos, já que Zeus não parecia tão afetado por sua morte quanto estava com Hades. Poseidon respeitou o poder de Zeus, pois não tinha escrúpulos com ele ascendendo ao trono, e não permitiu que Adamas ameaçasse seu status.",
     "NomePer3": "Adamas",
-    "ImagemPer3": "../imagens/Zeus/adamas-irmao.png",
-    "ParagPer3": "Zeus nunca demonstrou odiar ou ter rancor de Adamas mesmo ele tendo armado uma revolta para tirar Zeus do trono do Olimpo, depois que descobriu que seu irmão não havia morrido para Poseidon ele ficou feliz, os dois se dão bem e assistiram a 7 e 8 rodadas juntos.",
-    "NomePer4": "Hares",
-    "ImagemPer4": "../imagens/Zeus/ares.png",
-    "ParagPer4": "Ares é um dos filhos de Zeus e o deus da guerra, seu relacionamento com seu pai é bastante visto ao longo de todo o mangá, eles se dão bem e estão sempre juntos vendo as rodadas do Ragnarok. Embora Zeus zombe dele as vezes Ares o vê com respeito e orgulho de ser seu filho.",
-    "ImagemOs3Primeiros": "../imagens/Zeus/rei-do-olimpo.png",
-    "ParagrafoOs3Primeiros1": "Zeus Rei do Olimpo",
-    "ImagemOs3Primeiros2": "../imagens/Zeus/zeus-titanomaquia.png",
-    "ParagrafoOs3Primeiros2": "Zeus lutando na Titanomaquia",
-    "ImagemEsboco1": "../imagens/Zeus/deuses-vencem.png",
-    "ParagrafoCuriosidade1": "O Olimpo vence a Guerra",
-    "ImagemEsboco2": "../imagens/Zeus/irmaos-olimpo.png",
+    "ImagemPer3": "../imagens/Poseidon/adamas-irmao.png",
+    "ParagPer3": "Poseidon não tinha uma opinião elevada sobre Adamas. Os dois pareciam ter uma relação distante, com Poseidon nunca olhando Adamas nos olhos por toda a sua vida até que ele o mutilasse. Poseidon chamou Adamas de patético por confiar em seu exército e outros atletas olímpicos para derrubar Zeus, e não hesitou em revidar quando Adamas correu contra ele. No entanto, Poseidon tinha alguma consideração por seu irmão, pois ele escolheu não matar completamente Adamas e não se importou quando Adamas começou a levar uma nova vida, como Adamantine.",
+    "NomePer4": "Hermes",
+    "ImagemPer4": "../imagens/Poseidon/hermes.png",
+    "ParagPer4": "Poseidon estava em bons termos com Hermes. Apesar do comportamento manhoso de Hermes, ele conversou com ele casualmente e pediu-lhe para apagar Adamas da história. Ele não parecia se importar com Hermes espionando-o o tempo todo ou salvando Adamas sob ordens de Hades.",
+    "ImagemOs3Primeiros": "../imagens/Poseidon/titanomaquia.png",
+    "ParagrafoOs3Primeiros1": "Poseidon na Titanomaquia",
+    "ImagemOs3Primeiros2": "../imagens/Poseidon/poseidon-feliz.png",
+    "ParagrafoOs3Primeiros2": "Poseidon respeita Hades",
+    "ImagemEsboco1": "../imagens/Poseidon/poseidon-irmao.png",
+    "ParagrafoCuriosidade1": "Poseidon chama Hades de Irmao",
+    "ImagemEsboco2": "../imagens/Poseidon/irmaos-olimpo.png",
     "ParagrafoCuriosidade2": "Os Irmãos do Olimpo",
-    "ImagemEsboco3": "../imagens/Zeus/zeus-interrompe.png",
-    "ParagrafoCuriosidade3": "Zeus para a Luta de Ares",
-    "ImagemEsboco4": "../imagens/Zeus/zeus-chama-hercules.png",
-    "ParagrafoCuriosidade4": "Zeus convida Hércules",
-    "ImagemCocegas1": "../imagens/Zeus/inicia-ragnarok.png",
-    "ParagrafoCocegas1": "Zeus inicia o Ragnarok",
-    "ImagemCocegas2": "../imagens/Zeus/zeus-emocionado.png",
-    "ParagrafoCocegas2": "Zeus emocionado no Ragnarok",
-    "ImagemCocegas3": "../imagens/Zeus/zeus-nocauteado.png",
-    "ParagrafoCocegas3": "Zeus levado a Nocaute",
-    "ImagemCocegas4": "../imagens/Zeus/grecia-vinganca.png",
-    "ParagrafoCocegas4": "Grécia quer Vinça no Ragnarok",
-    "ImagemCocegas5": "../imagens/Zeus/deuses-perdem.png",
-    "ParagrafoCocegas5": "Os deuses perdem uma Rodada",
-    "ImagemCrianca1": "../imagens/Zeus/deuses-supremos.png",
-    "ParagrafoCrianca1": "Os Deuses mais Fortes",
-    "ImagemCrianca2": "../imagens/Zeus/zeus-intimida-buda.png",
-    "ParagrafoCrianca2": "Zeus Intimidando Buda",
-    "ImagemGaiden": "../imagens/Zeus/hades-morre.png",
-    "ParagrafoGaiden": "Zeus vê Hades Morrer"
+    "ImagemEsboco3": "../imagens/Poseidon/poseidon-mata-adamas.png",
+    "ParagrafoCuriosidade3": "Poseidon mata seu Irmão",
+    "ImagemEsboco4": "../imagens/Poseidon/conselho-dos-deuses.png",
+    "ParagrafoCuriosidade4": "Conselho dos Deuses",
+    "ImagemCocegas1": "../imagens/Poseidon/poseidon-plateia.png",
+    "ParagrafoCocegas1": "Poseidon odeia a plateia",
+    "ImagemCocegas2": "../imagens/Poseidon/morte.png",
+    "ParagrafoCocegas2": "Poseidon morre",
+    "ImagemCocegas3": "../imagens/Poseidon/poseidon-trono.png",
+    "ParagrafoCocegas3": "Poseidon no seu Trono",
+    "ImagemCocegas4": "../imagens/Poseidon/homenagem.png",
+    "ParagrafoCocegas4": "Hades homenageia Poseidon",
+    "ImagemCocegas5": "../imagens/Poseidon/visual1.png",
+    "ParagrafoCocegas5": "primeiro visual de Poseidon",
+    "ImagemCrianca1": "../imagens/Poseidon/poseidon-mata-sasaki.png",
+    "ParagrafoCrianca1": "Poseidon mata Sasaki",
+    "ImagemCrianca2": "../imagens/Poseidon/poseidon-irritado.png",
+    "ParagrafoCrianca2": "Poseidon irritado com Sasaki",
+    "ImagemGaiden": "../imagens/Poseidon/abismo.png",
+    "ParagrafoGaiden": "O abismo de um Deus"
+  },
+  {
+    "titulo": "Hercules, Deus da Fortitude",
+    "nome": "Hércules",
+    "Idade": "+4.000",
+    "Sexo": "Masculino",
+    "Classe": "Deus, O Deus mais Justo",
+    "Altura": "1,97 metros",
+    "Objetivos": "Vencer o Ragnarok",
+    "Obra": "Luta contra Jack, o Maior Assassino da Humanidade",
+    "Vitoria": "Nenhuma",
+    "Derrota": "Contra Jack",
+    "Empate": "Nenhum",
+    "ImagemStatus": "../imagens/Hercules/hercules-status.png",
+    "TextoAparencia": "Héracles assume a forma de um homem alto e musculoso com longos cabelos alaranjados espetados. Ele usa um protetor de ombro direito e protetor de peito com arco e flecha. Seu braço esquerdo tem uma braçadeira dourada ornamentada que cobre seus bíceps. Ele também usa um kilt de pele de leão, um cinto de campeonato e sandálias de couro simples. Ele tem uma tatuagem vermelha de desenho desconhecido que atravessa seu tronco do ombro direito até o lado inferior esquerdo do abdômen. Seus olhos são azuis.",
+    "TextoHistoria": "Por volta de 2000 a.C., Héracles nasceu como Alcides em Tebas, na Grécia. Quando os agressores tentaram assaltar Castor, Alcides mandou que parassem. Ele perdeu a luta e foi espancado junto com Castor. Enquanto os valentões os deixavam sozinhos, Castor perguntou a Alcides por que ele lutava mesmo sendo fraco. Alcides respondeu que os combateu porque estavam errados. Essa tendência continuou por muito tempo, incluindo tempos de conflitos e caçadas, onde Alcides estava na vanguarda e lutava pelos justos. Durante o Concílio dos Deuses, em 2000 a.C., os deuses decidiram punir um pouco a humanidade. Ares se ofereceu para o saque de Tebas e desceu à cidade com seu exército celestial. Enquanto o povo de Tebas se desesperava diante de Ares e seu exército, Alcides foi o único que se posicionou contra eles. Alcides foi expulso por Ares, mas a perseverança do humano o divertiu. Ares lhe disse que, se ele se curvar, sua vida será poupada. Alcides apontou a hipocrisia no comportamento hipócrita dos deuses e garantiu que apostará sua vida para se opor aos deuses. Alcides bebeu todo o pote de ambrosia para ganhar a força de um deus. Apesar de passar por dores terríveis, Alcides sobreviveu e se tornou um semideus. Ele eliminou o exército de Ares sozinho e lutou contra Ares até um impasse. Zeus parou a luta e ofereceu a Alcides que se tornasse um deus, pois achava que seria problemático deixar alguém como Alcides na Terra. Alcides disse-lhe que aceitará se os deuses nunca mais prejudicarem a humanidade. Zeus disse que aceitará se Alcides conduzir a humanidade à justiça. Alcides concordou em se curvar à divindade para proteger a humanidade. Após sua morte terrena, ele teve que completar 12 trabalhos antes de se tornar um deus. Durante a cerimônia de ascensão de Alcides, Zeus deu a Alcides um novo nome em homenagem à esposa de Zeus, Hera. Alcides vira 'Héracles'.",
+    "Historia": [
+      {
+        "TituloRagnarok": "Ragnarök: Quarta Rodada",
+        "RagnarokP": "Zeus enviou Héracles para lutar no quarto round pelo lado dos deuses. Antes de entrar na arena, ele conheceu Brunhilde e Göll e disse a eles que lutaria em seguida. Mais tarde, Loki o questionou sobre onde ele está entre a humanidade e os deuses como um semideus. Héracles disse a Loki que é contra acabar com a humanidade e tentará salvar a humanidade após sua própria vitória, e que está do lado da justiça. Para a quarta luta, Jack, o Estripador, pediu a Héracles que o palco fosse construído como Londres do século 19. Seu pedido foi aceito. A princípio, Héracles ficou ofendido por seu oponente ser um mero serial killer. Ele disse a Jack que, se estivesse disposto a se render, o deixaria vivo e faria Zeus aceitar esse resultado. Jack se recusou a se render e disse a Héracles que um cavalheiro sempre aceitará um duelo. Jack puxou uma tesoura gigante e disse que eles são seus Völundr. Antes que Héracles pudesse atacar, Jack fugiu para um beco escuro, para a raiva de Héracles. Héracles então o perseguiu e viu Jack bebendo chá.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-1.png"
+      },
+      {
+        "TituloRagnarok": "O Orgulho do mais Justo dos Deuses",
+        "RagnarokP": "Jack ofereceu a Héracles para fazer uma pausa para o chá, mas Héracles recusou e avançou sobre Jack. Héracles notou um tropeço e intencionalmente o acionou. A armadilha não lhe fez mal porque não usava armas divinas. Quando Héracles ergueu seu taco acima de Jack, ele usou suas armas de gancho para escapar. Héracles pulou no ar e balançou seu, quebrando a tesoura. Jack se apoiou contra uma parede e jogou facas nele. Assim como Héracles lembrou ao assassino que armas mortais não podem prejudicar um deus, Héracles foi ferido pelo ataque. Jack então puxou uma corda de facas de sua bolsa e disse a Héracles que sua verdadeira arma divina são na verdade duas bolsas geradoras de armas. Jack continuou seu ataque a Héracles jogando facas de suas bolsas, mas o deus da fortaleza facilmente desviou todas elas. Jack então jogou as facas em uma trajetória curva, conseguindo acertar alguns golpes. Héracles continuou a avançar através da chuva de facas.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-2.png"
+      },
+      {
+        "TituloRagnarok": "A Força do Mais Justo",
+        "RagnarokP": "Antes que Héracles pudesse acertar Jack com seu taco, ele puxou um guarda-chuva para fora das bolsas e girou para desviar o ataque, ganhando o respeito de Héracles. Jack admitiu que este ataque foi uma ligação próxima e perguntou a Héracles o que ele faria diante desse mal, ao que Héracles orgulhosamente proclamou que iria 'esmagá-lo de frente'. Ele então usou o Primeiro Trabalho: Leão de Nemeia. Jack escapou do golpe fatal, mas foi levado pela onda de choque, que o atingiu em uma parede próxima, deslocando seu ombro. No entanto, o assassino chamou a experiência de 'incrível' e passou a consertar seu ombro deslocado sem demonstrar dor. Jack então atacou Héracles com muitas facas de arremesso e um grande bumerangue. Héracles destruiu o bumerangue e usou seu braço esquerdo para bloquear as facas enquanto atacava Jack. Jack, o Estripador, saltou para o ar e saltou mais acima no fio do piano para se afastar de Héracles. Héracles ainda estava irritado com as táticas de Jack.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-3.png"
+      },
+      {
+        "TituloRagnarok": "A Justiça é Enganada",
+        "RagnarokP": "Ainda de pé sobre fios, Jack jogou um monte de facas no ar e puxou os fios para atacar seu oponente de várias direções. Héracles então usou o Sexto Trabalho: Pássaros de Stymphalia para soprar todas as facas e fios em Jack. As facas só atingiram o serial killer na perna direita e destruíram seu monóculo, que revelou seu olho direito sensível à emoção. Jack explicou a Héracles que, quando estava vivo, podia ver um turbilhão de emoções nas pessoas ao seu redor. Jack continua afirmando que quando as pessoas que ele matou estavam cheias da única emoção do medo, era uma bela visão. Héracles respondeu a Jack que a única coisa que ele teme é o dia em que ele se separar com justiça. Depois de desviar mais facas, Héracles apoiou Jack contra a torre do relógio do Big Ben. Jack usou uma arma de grappling para escapar acima, mas a borda quebrou no meio do caminho e ele teve que subir a torre. Jack estava segurando uma das mãos do rosto do Big Ben quando Héracles quebrou a torre ao meio, fazendo com que ela caísse em um prédio próximo.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-4.png"
+      },
+      {
+        "TituloRagnarok": "O Último Trabalho de Hércules",
+        "RagnarokP": "Héracles estava prestes a usar o Sétimo Trabalho: Touro de Creta para terminar a luta, mas Jack jogou a cara do relógio em Héracles. O herói lembrou-lhe que as armas mortais não podem prejudicar um deus, mas seu braço esquerdo foi cortado antes que ele pudesse terminar. Héracles foi o primeiro a perceber qual era o verdadeiro Völundr de Jack, o Estripador. Jack então explicou a todos que qualquer coisa que ele toque com suas luvas se torna uma arma divina. O assassino continuou a zombar de Héracles, mas ele ignorou a zombaria de Jack e continuou a lutar com seu braço direito e porrete. Jack aplaudiu a tenacidade de Héracles e descreveu suas emoções como um orgulho avassalador, misturado com uma pitada de raiva, mas sem medo. Héracles percebeu que Jack, o Estripador, pode ver emoções na forma de cores com seu olho direito. Jack disse a Héracles que era sua única razão de viver e que suas vítimas tingidas com a cor do medo eram uma obra de arte que só ele era capaz de apreciar. Jack também especifica que isso faz qualquer um brilhar, não importa o quão escura sua vida era. Héracles ficou irritado com a razão de Jack para matar. Jack insistiu que a cor do medo possui uma beleza que ele não trocaria pelo mundo. Héracles disse ao assassino que perdeu. Jack ficou confuso com a declaração de Héracles, mas o herói corretamente assumiu que a malícia de Jack deriva de sua vida empobrecida e traição dos pais. Héracles disse que Jack perdeu para o desespero e cedeu ao hedonismo. Jack chocou ao ver a cor do amor em Héracles. Héracles disse que sempre amará a humanidade, apesar de suas falhas. Ele então declarou que salvará Jack, o Estripador, de seu sofrimento. Héracles então jogou seu taco no ar para usar o trabalho final e sua técnica final, Décimo Segundo Trabalho: Cérbero, fundindo-se com Cérbero. Aprimorado com o trabalho final, ele começou a atacar Jack, o Estripador, quando este pegou os destroços resultantes e os jogou em Héracles.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-5.png"
+      },
+      {
+        "TituloRagnarok": "A segunda Vitória da Humanidade",
+        "RagnarokP": "Héracles quebrou todas as armas improvisadas de Jack de frente e usou Great Hero Blow para atacar, mas Jack conseguiu evitar o ataque. Depois de mais algumas trocas, Jack tentou fugir usando sua arma de grappling, mas Héracles o interceptou no ar e o bateu em uma cerca de metal cravada. Depois de se recuperar, Jack, o Estripador, usou seu manto para executar Rondo Of Blessing. Héracles foi esmagado sob o prédio, mas deu um soco para fora. Jack então olhou para suas emoções e riu, porque ele foi capaz de confirmar que o amor de sua mãe era falso. Ele então disse que não percebia que o amor verdadeiro poderia ser tão bonito.  O serial killer então teve um colapso nervoso, desenhando um sorriso em seu rosto com sangue e dizendo que quer tingir Héracles em sua cor favorita. Jack, o Estripador, então pegou duas peças de porta quebradas do chão e as usou como uma espada e um escudo. Héracles destruiu suas armas e enviou Jack voando com um soco. Depois de mais alguns ataques malsucedidos, Jack se levantou novamente enquanto cantava uma rima de berçário, imaginando-se delirantemente tendo uma infância feliz enquanto se dirigia para Héracles.  Héracles elogiou o poder de vontade que Jack estava exibindo. Assim que Héracles estava prestes a acabar com Jack, Jack usou Dear God para empalar Héracles através do peito e feri-lo mortalmente. Em vez de terminar a partida com um mata-mata mútuo, Héracles estendeu a mão para Jack e o abraçou. Quando Héracles estava desaparecendo, ele pediu desculpas a Brunhilde e pediu que ela salvasse a humanidade.",
+        "ImagemRagnarok": "../imagens/Hercules/rag-pag-6.png"
+      }
+    ],
+    "TextoVolund": "Clube do Leão: Um clube de prata mágico que assume a forma de uma variedade de animais, incluindo um leão, uma águia e um touro. Toda vez que Héracles usa uma de suas 12 técnicas de Labors para mudar a forma de seu clube, as tatuagens em seu corpo se espalham, aproximando-o da morte.",
+    "ImagemVolund": "../imagens/Hercules/volund.png",
+    "ParagrafoHabilidade": "<b>vontade Indomável</b>: Héracles possuía uma alma justa e vontade forte antes mesmo de se tornar um Deus. Mesmo quando criança, Héracles nunca cedeu ao desespero, por mais difícil que fosse a situação. Ele sempre lutou na vanguarda e nunca recuou, mesmo que seu oponente fosse um Deus.Ele treinou constantemente desde quando era um Humano, usando as dificuldades como uma forma de melhorar a si mesmo, a fim de ganhar força para proteger os fracos. ",
+    "ImagemHabilidade": "../imagens/Hercules/hercules-habilidade.png",
+    "Tecnicas": [
+      {
+        "TituloTecnica": "Êxodo Hercúleo (Doze Calamidades e Pecados)",
+        "TextoTecnica": "Depois de terminar os 12 Trabalhos, Héracles recebeu 12 técnicas divinas em troca. Embora essas técnicas sejam imensamente poderosas, cada vez que ele realizava uma técnica, sua tatuagem se espalhava ainda mais por seu corpo e causava uma imensa quantidade de dor. Se a tatuagem se espalhasse por todo o corpo, ele morreria.",
+        "ImagemTecnica": "../imagens/Hercules/tec-1.png"
+      },
+      {
+        "TituloTecnica": "Primeiro Trabalho: Leão Nemean (rugido devorador da Terra) ",
+        "TextoTecnica": "O chefe do clube de Héracles se transforma em um leão rugindo, que ele esmaga no chão com tremenda força, criando uma enorme onda de choque que enviou Jack, o Estripador, voando para trás e deslocou seu ombro.",
+        "ImagemTecnica": "../imagens/Hercules/tec-2.png"
+      },
+      {
+        "TituloTecnica": "Sexto Trabalho: Pássaro Stymphalian (Pássaro que Chama a Brisa)",
+        "TextoTecnica": "O chefe do clube de Héracles se transforma em um pássaro estimphaliano e produz uma rajada de vento extremamente poderosa quando balançado, soprando todas as facas de Jack, o Estripador.",
+        "ImagemTecnica": "../imagens/Hercules/tec-3.png"
+      },
+      {
+        "TituloTecnica": "Sétimo Trabalho: Touro Cretense (Hoof of Raging Bull)",
+        "TextoTecnica": "O chefe do clube de Héracles se transforma em um Touro de Creta. Os efeitos são desconhecidos.",
+        "ImagemTecnica": "../imagens/Hercules/tec-4.png"
+      },
+      {
+        "TituloTecnica": "Décimo Segundo Trabalho: Cérbero, Cão de Hades (Desastre do Submundo)",
+        "TextoTecnica": "Héracles joga o taco no ar e convoca Cérbero para se fundir com ele. Seu cabelo cresce até a parte inferior das costas e ele obtém características de Cérbero, como presas afiadas, garras, pelo (nas costas) e um colar cravado. Sua tatuagem se torna preta e cresce continuamente, drenando sua força vital sem parar. [24] Esta técnica fornece um impulso para sua velocidade e poder, além de conceder a capacidade de cortar objetos a uma distância de até vários metros, como se houvesse garras gigantes invisíveis presas às suas mãos.",
+        "ImagemTecnica": "../imagens/Hercules/tec-5.png"
+      },
+      {
+        "TituloTecnica": "Apheles Heros (Grande Golpe de Herói)",
+        "TextoTecnica": "Héracles concentra seu poder em seu braço direito, ampliando-o, e executa um poderoso soco em seu oponente com tanta força que cria uma cratera gigantesca. ",
+        "ImagemTecnica": "../imagens/Hercules/tec-6.png"
+      }
+    ],
+    "NomePer1": "Ares",
+    "ImagemPer1": "../imagens/Hercules/ares.png",
+    "ParagPer1": "Ares foi o Deus encarregado de destruir uma cidade grega por eresia aos deuses, porém Hércules ainda jovem e sem poderes desafiou os deuses e perdeu então assim ele bebeu da Ambrosia de Zeus e ficou com as forças do mair deus grego, logo derrotando todos eles e quase derrotando Ares Zeus interviu e disse a Hércules para que se tornasse um Deus também, depois daquilo Ares começou a respeitar e adimirar muito Hércules mesmo depois de sua morte.",
+    "NomePer2": "Zeus",
+    "ImagemPer2": "../imagens/Poseidon/zeus.png",
+    "ParagPer2": "Muito pouco se sabe sobre a relação de Poseidon com Zeus. Eles provavelmente não eram muito próximos, já que Zeus não parecia tão afetado por sua morte quanto estava com Hades. Poseidon respeitou o poder de Zeus, pois não tinha escrúpulos com ele ascendendo ao trono, e não permitiu que Adamas ameaçasse seu status.",
+    "NomePer3": "Adamas",
+    "ImagemPer3": "../imagens/Poseidon/adamas-irmao.png",
+    "ParagPer3": "Poseidon não tinha uma opinião elevada sobre Adamas. Os dois pareciam ter uma relação distante, com Poseidon nunca olhando Adamas nos olhos por toda a sua vida até que ele o mutilasse. Poseidon chamou Adamas de patético por confiar em seu exército e outros atletas olímpicos para derrubar Zeus, e não hesitou em revidar quando Adamas correu contra ele. No entanto, Poseidon tinha alguma consideração por seu irmão, pois ele escolheu não matar completamente Adamas e não se importou quando Adamas começou a levar uma nova vida, como Adamantine.",
+    "NomePer4": "Hermes",
+    "ImagemPer4": "../imagens/Poseidon/hermes.png",
+    "ParagPer4": "Poseidon estava em bons termos com Hermes. Apesar do comportamento manhoso de Hermes, ele conversou com ele casualmente e pediu-lhe para apagar Adamas da história. Ele não parecia se importar com Hermes espionando-o o tempo todo ou salvando Adamas sob ordens de Hades.",
+    "ImagemOs3Primeiros": "../imagens/Poseidon/titanomaquia.png",
+    "ParagrafoOs3Primeiros1": "Poseidon na Titanomaquia",
+    "ImagemOs3Primeiros2": "../imagens/Poseidon/poseidon-feliz.png",
+    "ParagrafoOs3Primeiros2": "Poseidon respeita Hades",
+    "ImagemEsboco1": "../imagens/Poseidon/poseidon-irmao.png",
+    "ParagrafoCuriosidade1": "Poseidon chama Hades de Irmao",
+    "ImagemEsboco2": "../imagens/Poseidon/irmaos-olimpo.png",
+    "ParagrafoCuriosidade2": "Os Irmãos do Olimpo",
+    "ImagemEsboco3": "../imagens/Poseidon/poseidon-mata-adamas.png",
+    "ParagrafoCuriosidade3": "Poseidon mata seu Irmão",
+    "ImagemEsboco4": "../imagens/Poseidon/conselho-dos-deuses.png",
+    "ParagrafoCuriosidade4": "Conselho dos Deuses",
+    "ImagemCocegas1": "../imagens/Poseidon/poseidon-plateia.png",
+    "ParagrafoCocegas1": "Poseidon odeia a plateia",
+    "ImagemCocegas2": "../imagens/Poseidon/morte.png",
+    "ParagrafoCocegas2": "Poseidon morre",
+    "ImagemCocegas3": "../imagens/Poseidon/poseidon-trono.png",
+    "ParagrafoCocegas3": "Poseidon no seu Trono",
+    "ImagemCocegas4": "../imagens/Poseidon/homenagem.png",
+    "ParagrafoCocegas4": "Hades homenageia Poseidon",
+    "ImagemCocegas5": "../imagens/Poseidon/visual1.png",
+    "ParagrafoCocegas5": "primeiro visual de Poseidon",
+    "ImagemCrianca1": "../imagens/Poseidon/poseidon-mata-sasaki.png",
+    "ParagrafoCrianca1": "Poseidon mata Sasaki",
+    "ImagemCrianca2": "../imagens/Poseidon/poseidon-irritado.png",
+    "ParagrafoCrianca2": "Poseidon irritado com Sasaki",
+    "ImagemGaiden": "../imagens/Poseidon/abismo.png",
+    "ParagrafoGaiden": "O abismo de um Deus"
   }
 ]
